@@ -2,6 +2,7 @@
 #define _TEST_H_
 #include <string>
 #include <iostream>
+
 class TestA
 {
 private:
@@ -16,5 +17,5 @@ protected:
      TestA & operator=(const TestA &);
 };
 
-
 #endif
+#end test.h
