@@ -18,4 +18,4 @@ protected:
 };
 
 #endif
-#end test.h
+//end test.h
