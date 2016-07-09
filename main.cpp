@@ -3,7 +3,7 @@
 
 int main(int argc, char *argv[])
 {
-    stdout = freopen("output.log", "w", stdout);
+    stdout = freopen("./../log/output.log", "w+", stdout);
 
     std::cout << "there is main function...\n";
 
